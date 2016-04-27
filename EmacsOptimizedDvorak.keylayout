@@ -169,7 +169,7 @@
 			<key code="11" output="X"/>
 			<key code="12" output="&#x0022;"/>
 			<key code="13" output="&#x003C;"/>
-			<key code="14" output="&#x003D;"/>
+			<key code="14" output="&#x003E;"/>
 			<key code="15" output="P"/>
 			<key code="16" output="F"/>
 			<key code="17" action="12"/>
