@@ -88,7 +88,7 @@
 			<key code="42" output="\"/>
 			<key code="43" output="w"/>
 			<key code="44" output="z"/>
-			<key code="45" action="16"/>
+			<key code="45" output="b"/>
 			<key code="46" output="m"/>
 			<key code="47" output="v"/>
 			<key code="48" output="&#x0009;"/>
